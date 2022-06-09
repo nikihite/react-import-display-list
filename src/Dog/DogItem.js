@@ -4,7 +4,6 @@ export default function DogItem({
   name,
   breed,
   age,
-  image,
 }) {
   return (
     <div className='dog'>
