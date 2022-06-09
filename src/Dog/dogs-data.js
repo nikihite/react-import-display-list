@@ -13,6 +13,6 @@ export const dogs = [
   {
     name: 'Jett',
     breed: 'Human',
-    age: 2,
+    age: 23,
   },
 ];

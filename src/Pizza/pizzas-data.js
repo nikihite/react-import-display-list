@@ -2,10 +2,10 @@
 export const pizzas = [
   'cheese',
   'pepperoni',
-  'marghertita',
+  'margherita',
   'hawaiian',
   'meat',
   'veggie',
   'buffalo',
-  'bbq chicken'
+  'bbq-chicken'
 ];
