@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+
+.pizza {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    font-family: 'Lobster Two', cursive;
+    border: solid 1px black;
+    font-size: 30px;
+}
+
+.pizzatwo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pizzapic {
+    height: 250px;
+}

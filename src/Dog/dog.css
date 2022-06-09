@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+
+.dog {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    font-family: 'Lobster Two', cursive;
+    border: solid 1px black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.dog-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+img {
+    height: 300px;
+}
+
+p, h3 {
+    margin: 2px;
+}
