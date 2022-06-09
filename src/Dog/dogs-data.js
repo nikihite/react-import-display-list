@@ -2,17 +2,17 @@
 export const dogs = [
   {
     name: 'Star',
-    breed: 'Belgian Malinois',
+    breed: 'she is a Belgian Malinois',
     age: 'she is 2',
   },
   {
     name: 'Bear',
-    breed: 'Belgian Malinois',
+    breed: 'she is a Belgian Malinois',
     age: 'she is 1',
   },
   {
     name: 'Jett',
-    breed: 'Human',
+    breed: 'he is a Human',
     age: 'he is 23',
   },
 ];

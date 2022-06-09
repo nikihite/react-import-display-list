@@ -9,7 +9,7 @@ export default function DogItem({
   return (
     <div className='dog'>
       <h3>This is {name},</h3>
-      <p>they are a {breed},</p>
+      <p>{breed},</p>
       <p>and {age} years old.</p>
       <img className='pic' src={`${name}.jpeg`} />
     </div>
