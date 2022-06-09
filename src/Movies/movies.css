@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+
+.movie {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    font-family: 'Lobster Two', cursive;
+    font-size: 20px;
+    border: solid 1px black;
+    width: 350px;
+}
+
+.movie2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.moviepic {
+    height: 200px;
+}

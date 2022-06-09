@@ -1,8 +1,9 @@
 import MovieItem from './MovieItem';
+import './movies.css';
 
 export default function MoviesList({ movies }) {
   return (
-    <div>
+    <div className='movie2'>
       {
         movies.map((movie, i) => <MovieItem {...movie} key={movie.name + i} />)
       }

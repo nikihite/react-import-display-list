@@ -6,6 +6,7 @@
     flex-direction: column;
     margin: 10px;
     font-family: 'Lobster Two', cursive;
+    border: solid 1px black;
     font-size: 20px;
 }
 

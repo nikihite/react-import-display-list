@@ -1,3 +1,5 @@
+import './movies.css';
+
 export default function MovieItem({ name, year, characters }) {
   return (
     <div className="movie">
