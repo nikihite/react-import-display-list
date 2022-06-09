@@ -1,4 +1,4 @@
-import './Dog.css';
+import './dog.css';
 
 export default function DogItem({ 
   name,
@@ -8,9 +8,9 @@ export default function DogItem({
 }) {
   return (
     <div className='dog'>
-      <h3>This is {name}</h3>
-      <p>they are a {breed}</p>
-      <p>and they are {age} years old</p>
+      <h3>This is {name},</h3>
+      <p>they are a {breed},</p>
+      <p>and {age} years old.</p>
       <img className='pic' src={`${name}.jpeg`} />
     </div>
   );

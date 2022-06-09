@@ -1,4 +1,5 @@
 import DogItem from './DogItem';
+import './dog.css';
 
 export default function DogsList({ dogs }) {
   return (
