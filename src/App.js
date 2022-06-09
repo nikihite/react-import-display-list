@@ -1,4 +1,3 @@
-import './App.css';
 import PizzasList from './Pizza/PizzasList';
 import { pizzas } from './Pizza/pizzas-data';
 import DogsList from './Dog/DogsList';
